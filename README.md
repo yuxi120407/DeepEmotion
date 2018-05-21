@@ -1,6 +1,6 @@
-# Live Emotion recognition with CapsNet
+a# Live Emotion recognition with CapsNet
 
-This repository is the our project about live emotion recognition using capsule network for the course Big Dat Ecosystem at UF.
+This repository is the our project about live emotion recognition using capsule network for the course Big Data Ecosystem at UF.
 
 ## Dependencies
 
